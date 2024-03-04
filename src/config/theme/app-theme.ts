@@ -52,11 +52,11 @@ export const styles = StyleSheet.create({
 
   button: {
     height: 80,
-    width: 80,
+    width: 75,
     backgroundColor: colors.darkGray,
     borderRadius: 100,
     justifyContent: 'center',
-    marginHorizontal: 10
+    marginHorizontal: 8
   },
 
   buttonText: {
